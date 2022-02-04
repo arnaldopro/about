@@ -1,15 +1,14 @@
 
-# Hi, I´m Arnaldo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, I´m Arnaldo! <img src="" width="30px">
 
-- 📷 Today I work with front-end<br>
-- 🌿 Studying Javascript and C#
+- 📷 Today I study front-end<br>
 
 <div>
-  <a href="https://github.com/F3lip32010
+  <a href="https://github.com/arnaldopro
 ">
   <h1>Knowledge Statistics</h1>
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Arnaldo#Ucuassapi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F3lip32010&&layout=compact&hide=shell&theme=radical"/> 
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=arnaldopro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaldopro&&layout=compact&hide=shell&theme=radical"/> 
 </div>
  <br>
   <h1>Technologies I use in my day</h1>
