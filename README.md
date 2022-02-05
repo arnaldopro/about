@@ -1,9 +1,9 @@
 
-# Hi, I´m Arnaldo! <img src="" width="30px">
+# Hi, I´m Arnaldo!
 
-<img src="/Me/">
+<img src="560216.png" width="50px">
 
-- 📷 Today I study front-end<br>
+-💻 Today I study front-end<br>
 
 <div>
   <a href="https://github.com/arnaldopro
@@ -25,7 +25,7 @@
 <h1>Languages I speak</h1>
   
 - 🇺🇸 English
-- Portuguese
+- 🇦🇴 Portuguese
   
 <h1>Social networks</h1>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Facebook-00B7FD?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
