@@ -1,7 +1,7 @@
 
 # Hi, I´m Arnaldo!
 
-<img src="560216.png" width="50px">
+<img src="560216.png" width="200px">
 
 -💻 Today I study front-end<br>
 
