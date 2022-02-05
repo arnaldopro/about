@@ -1,6 +1,8 @@
 
 # Hi, I´m Arnaldo! <img src="" width="30px">
 
+<img src="/Me/">
+
 - 📷 Today I study front-end<br>
 
 <div>
