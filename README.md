@@ -30,6 +30,7 @@
 <h1>Social networks</h1>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Facebook-00B7FD?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
      <a href="#" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-34FD00?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-4f6f7f?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 
   
